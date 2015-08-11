@@ -1,3 +1,5 @@
+#careful with that @@rest function there eric. lol
+
 require 'json'
 require 'rest-client'
 
